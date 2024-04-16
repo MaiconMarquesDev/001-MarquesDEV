@@ -1,4 +1,8 @@
 # 001-MarquesDEV
- Primeiro repositório versionado
+ Primeiro repositório versionado.
 
-Repositório testado
+ Repositório testado.
+
+ Linja inserida diretamente no site.
+
+ 
